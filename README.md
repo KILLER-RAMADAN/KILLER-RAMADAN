@@ -35,7 +35,7 @@
 ### Languages and Tools 🛠 
 
 
-
+[![Github](https://img.shields.io/github/followers/sarthakbh321?label=Follow&style=social)](https://github.com/KILLER-RAMADAN)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
