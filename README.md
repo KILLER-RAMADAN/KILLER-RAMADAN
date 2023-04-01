@@ -68,7 +68,7 @@
  ### ⭐️ From [RAMADAN](https://github.com/KILLER-RAMADAN?tab=repositories) ### 
  
 ---
-[website]: https://mail.google.com/mail/u/0/#inbox
+[website]: https://mail.proton.me/u/0/inbox
 [instagram]: https://www.instagram.com/bilgehangecici
 [linkedin]: https://www.linkedin.com/in/ahmed-ramadan-9b5a32221/
 
