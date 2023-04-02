@@ -1,6 +1,7 @@
 ![68747470733a2f2f692e696d6775722e636f6d2f384d75705a48592e676966](https://user-images.githubusercontent.com/90656786/229323716-ab43d7ae-bfc4-4259-bae3-9f15414868a6.gif)
 ---
 <h1 align= "center"><b>Hello World! :earth_asia:</b></h1>
+---
 # Hi there, I'm Ahmed Ramadan <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
