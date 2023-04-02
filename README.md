@@ -1,5 +1,7 @@
-<h1 align="center">![giphy](https://user-images.githubusercontent.com/90656786/229324166-d2f14358-9b85-49ca-b9bb-bc8630985b68.gif)</h1>
->
+![giphy](https://user-images.githubusercontent.com/90656786/229324166-d2f14358-9b85-49ca-b9bb-bc8630985b68.gif)![giphy](https://user-images.githubusercontent.com/90656786/229324209-11ed41bd-4f6d-4d43-b274-7d1837dd6061.gif)!![giphy](https://user-images.githubusercontent.com/90656786/229324214-1cf1f19c-8de3-4f42-bb42-d5bca6adea36.gif)
+
+
+
 ---
 <h1 align= "center"><b>Hello World! :earth_asia:</b></h1>
 
