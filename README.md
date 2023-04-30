@@ -57,6 +57,8 @@
 ![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+![Word Press](![word press-IGEC-blue](https://user-images.githubusercontent.com/90656786/235362859-32b93451-4de2-4fad-940b-f7c9a8afcefe.svg)
+)
 
 <br/>
 
