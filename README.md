@@ -72,6 +72,16 @@
 
 ---
 ![VisitorCount](https://profile-counter.glitch.me/{KILLER-RAMADAN}/count.svg)
+
+##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
+<!-- wi*quL3fcV -->
+
+```javascript
+// Which came first: the chicken or the egg?
+console.log(['🥚', '🐣', '🐥', '🐔'].sort())
+
+>>> [ '🐔', '🐣', '🐥', '🥚' ]
+```
  
  ### ⭐️ From [RAMADAN](https://github.com/KILLER-RAMADAN?tab=repositories) ### 
  
