@@ -85,9 +85,9 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 >>> [ '🐔', '🐣', '🐥', '🥚' ]
 ```
  
- ### ⭐️[AHMED RAMADAN](https://github.com/KILLER-RAMADAN?tab=repositories) ### 
- 
- # ![RAMADAN-QR-CODE](https://user-images.githubusercontent.com/90656786/235363779-f265cc90-5a0b-469f-9ecf-887fcdd933ed.png)
+ ### ⭐️[Linkidin](![LINKIDIN-QR-CODE](https://github.com/KILLER-RAMADAN/KILLER-RAMADAN/assets/90656786/8d073ef7-ffd7-48dc-b942-90ca7300ff96)
+) ### 
+
  
  
 ---
