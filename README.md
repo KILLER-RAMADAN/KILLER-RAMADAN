@@ -85,8 +85,7 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 >>> [ '🐔', '🐣', '🐥', '🥚' ]
 ```
  
- ### ⭐️[Linkidin](![LINKIDIN-QR-CODE](https://github.com/KILLER-RAMADAN/KILLER-RAMADAN/assets/90656786/8d073ef7-ffd7-48dc-b942-90ca7300ff96)
-) ### 
+ ### ⭐️[Linkidin](![LINKIDIN-QR-CODE](https://github.com/KILLER-RAMADAN/KILLER-RAMADAN/assets/90656786/3465c389-ccdc-42a1-a720-d3024ae7ccbc)) ### 
 
  
  
