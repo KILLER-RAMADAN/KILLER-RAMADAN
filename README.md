@@ -1,8 +1,5 @@
 ![giphy (1)](https://user-images.githubusercontent.com/90656786/229324521-06f2b28d-5cc6-4353-93f9-55eabaa9969d.gif)
 
-<img src="https://github.com/anathayna/anathayna/blob/master/assets/salt.gif?raw=1" width="55vw"/>
-
-
 ---
 <h1 align= "center"><b>Hello World! :earth_asia:</b></h1>
 
@@ -62,7 +59,7 @@
 ![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-[![My Web Site](https://user-images.githubusercontent.com/90656786/235362859-32b93451-4de2-4fad-940b-f7c9a8afcefe.svg)](igescsa.com)
+[![My Web Site](https://user-images.githubusercontent.com/90656786/235362859-32b93451-4de2-4fad-940b-f7c9a8afcefe.svg)](https://igeccorp.com/)
 
 <br/>
 
