@@ -1,6 +1,7 @@
 ![giphy (1)](https://user-images.githubusercontent.com/90656786/229324521-06f2b28d-5cc6-4353-93f9-55eabaa9969d.gif)
 
-(https://open.spotify.com/user/22prktxbbzv476kqemxclmwri) <em> ~ projects down here ↓ ~ </a><img src="https://github.com/anathayna/anathayna/blob/master/assets/salt.gif?raw=1" width="55vw"/></em>
+<em> ~ projects down here ↓ ~ </a><img src="https://github.com/anathayna/anathayna/blob/master/assets/salt.gif?raw=1" width="55vw"/></em>
+
 
 ---
 <h1 align= "center"><b>Hello World! :earth_asia:</b></h1>
