@@ -1,5 +1,6 @@
-![giphy (1)](https://user-images.githubusercontent.com/90656786/229324521-06f2b28d-5cc6-4353-93f9-55eabaa9969d.gif)
-
+<p align="center">
+<img src="https://github.com/selimdoyranli/selimdoyranli/blob/master/preview.gif" width="350" />
+</p>
 ---
 <h1 align= "center"><b>Hello World! :earth_asia:</b></h1>
 
