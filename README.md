@@ -45,8 +45,10 @@
 
 
 [![Github](https://img.shields.io/github/followers/KILLER-RAMADAN?label=Follow&style=social)](https://github.com/KILLER-RAMADAN)
-<img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/html.svg" alt="html" style="vertical-align:top; margin:2px">
-<img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/javascript.svg" alt="javascript" style="vertical-align:top; margin:2px">
+<img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/html.svg" alt="html" style="vertical-align:top; margin:0px">
+<img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/javascript.svg" alt="javascript" style="vertical-align:top; margin:0px">
+ <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/iot.svg" alt="iot" style="vertical-align:top; margin:0px">
+ <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/aws.svg" alt="aws" style="vertical-align:top; margin:0px">
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
