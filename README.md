@@ -35,7 +35,6 @@
 <a href="https://mail.proton.me/u/0/inbox" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
 <a href="https://www.linkedin.com/in/ahmed-ramadan-9b5a32221/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/KILLER-RAMADAN/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
-</p>
 
 
 
@@ -75,9 +74,8 @@
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=killer-ramadan&show_icons=true&locale=en&layout=compact" alt="killer-ramadan" /></p>
 
 <br/>
-
----
 ![VisitorCount](https://profile-counter.glitch.me/{KILLER-RAMADAN}/count.svg)
+---
 
 ##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
 <!-- wi*quL3fcV -->
