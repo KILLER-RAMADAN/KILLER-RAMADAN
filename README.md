@@ -1,4 +1,4 @@
-
+![giphy (1)](https://user-images.githubusercontent.com/90656786/229324521-06f2b28d-5cc6-4353-93f9-55eabaa9969d.gif)
 
 <img src="https://github.com/anathayna/anathayna/blob/master/assets/salt.gif?raw=1" width="55vw"/>
 
@@ -45,6 +45,8 @@
 
 
 [![Github](https://img.shields.io/github/followers/KILLER-RAMADAN?label=Follow&style=social)](https://github.com/KILLER-RAMADAN)
+<img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/html.svg" alt="html" style="vertical-align:top; margin:2px">
+<img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/javascript.svg" alt="javascript" style="vertical-align:top; margin:2px">
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
