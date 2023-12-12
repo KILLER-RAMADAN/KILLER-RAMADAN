@@ -64,7 +64,6 @@
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 [![My Web Site](https://user-images.githubusercontent.com/90656786/235362859-32b93451-4de2-4fad-940b-f7c9a8afcefe.svg)](https://igeccorp.com/)
 <a href="https://flet.dev" target="_blank" rel="noreferrer"><img src="https://flet.dev/img/logo.svg" width="36" height="36" alt="Flet" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 
 <br/>
 
